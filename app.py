@@ -12,7 +12,7 @@ import requests
 # Mistral AI Configuration
 # ------------------------------
 MISTRAL_API_URL = "https://api.mistral.ai/v1/chat/completions"
-MISTRAL_API_KEY = "sS5uNgl8bQKT7rxt7mRVRj5Gk4EcMa0k"
+MISTRAL_API_KEY = "[API_Key]"
 
 # ------------------------------
 # Global Morse Decoder State
